@@ -1,0 +1,9 @@
+.span1 {
+	width: 150px;
+}
+
+.span {
+	width: 150px;
+	padding: 45px;
+	border-color: black;
+}
